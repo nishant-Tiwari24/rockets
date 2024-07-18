@@ -2,3 +2,4 @@
 /server/deploy-service/node_modules
 /server/request-handler/node_modules
 client/node_modules
+.ENV
