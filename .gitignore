@@ -1,3 +1,4 @@
-upload-service/node_modules
-deploy-service/node_modules
-request-handler/node_modules
+/server/upload-service/node_modules
+/server/deploy-service/node_modules
+/server/request-handler/node_modules
+client/node_modules
